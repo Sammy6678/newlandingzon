@@ -4,4 +4,4 @@ variable "rg" {
 
 variable "stg" {
 
-}
+} 

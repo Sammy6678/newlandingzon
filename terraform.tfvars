@@ -2,7 +2,7 @@ rg = {
   rg1 = {
     name     = "rg-dev"
     location = "eastus"
-  }
+  } 
 
   rg2 = {
     name = "langunana"
